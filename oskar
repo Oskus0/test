@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Wizytówka
+        </title>
+        <meta charset="UTF-8"/>
+        <meta name="keywords" content="test"/>
+        <meta name="description" content="test"/>
+        <meta name="author" content="Oskar Wolak"/>
+        <meta name="robots" content="all"/>
+    </head>
+    <body>
+Dzień Dobry
+    </body>
+</html>
